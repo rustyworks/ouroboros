@@ -6,8 +6,9 @@ The process is simple
 - Check if it has any phone number or link
 
 ### Milestone
-- Rewrite using OOP version
-- Experimenting with matlab version (If this version is better, then use matlab instead)
+- ~~Rewrite using OOP version~~ [Done]
+- Experimenting using other OCR
+- Reinforcement learning for character recognition
 - Create API to get video from s3
 - Create web user interface using Django, to checking video manually using upload
 
@@ -15,3 +16,5 @@ The process is simple
 - https://superuser.com/questions/650291/how-to-get-video-duration-in-seconds
 - https://www.pyimagesearch.com/practical-python-opencv/
 - https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/
+- https://www.mathworks.com/help/vision/examples/automatically-detect-and-recognize-text-in-natural-images.html
+
